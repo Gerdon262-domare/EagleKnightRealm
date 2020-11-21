@@ -65,6 +65,7 @@ Raiding:
   '3':
     type: SHOP
     id: DROPPER
+    buy-price: 100.0
   '4':
     type: SHOP
     id: DISPENSER
